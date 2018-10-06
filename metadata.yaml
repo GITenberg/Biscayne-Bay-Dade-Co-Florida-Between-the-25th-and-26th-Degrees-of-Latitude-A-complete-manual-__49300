@@ -19,6 +19,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'Biscayne Bay, Dade Co., Florida, Between the 25th and 26th Degrees of Latitude.
 
   A complete manual of information concerning the climate,
